@@ -1,0 +1,119 @@
+
+*
+{font-family: 'Montserrat', sans-serif;
+}
+body
+{
+    background-color: #505D68;
+    
+}
+
+h1
+{
+    font-weight: 700;
+    color:#505D68;
+    font-size: 2em;
+    
+}
+
+h2
+{
+    color: #A1AEB7;
+    font-size: 1.4em;
+    font-weight: 700;
+}
+
+h3
+{
+    color: #505D68;
+    font-weight: 700;
+    text-transform: uppercase; 
+    font-size: 1.4em; 
+    /* padding-top: 2%; */
+}
+
+p
+{
+    font-size: 1em;
+    color:#505D68;
+    margin-bottom: 0;
+
+}
+
+.feuille
+{
+    padding-top: 5%;
+    background-color: white;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+.titre
+{
+    margin-left:5%;
+    padding-top: 4%;
+}
+
+.contact
+{
+    font-weight: 700;
+    margin-top: 4%;
+    
+}
+
+.partie
+{
+    margin-top: 8%; 
+    
+}
+
+.fonction
+{
+    color:#505D68;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+
+.date
+{
+    color:#505D68;
+}
+
+.lieu
+{
+    font-style:italic;
+    color:#505D68;
+    text-transform: uppercase;
+}
+
+.block
+{
+    border-bottom: 1px dashed black;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+
+.lastone
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.certificat
+{
+    font-weight: 700;
+}
+
+.image-responsive
+{
+    max-width : 150%;
+    height: auto;
+    display: block;
+}
+
+
+
